@@ -1,4 +1,4 @@
-export default [
+let moviedb = [
   {
     imgurl:
       "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
@@ -33,3 +33,5 @@ export default [
     link: "https://www.themoviedb.org/movie/299534-avengers-endgame",
   },
 ];
+
+export default moviedb;

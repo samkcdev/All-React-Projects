@@ -1,9 +1,9 @@
 import Cards from "./Cards";
-import data from "./data";
+import moviedb from "./data";
 import "./App.css";
 
 function App() {
-  let card = data.map((d) => {
+  let card = moviedb.map((d) => {
     return (
       <Cards
         img={d.imgurl}
