@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/All-React-Projects/tree/main/movie-cards/static/css/main.9de83585.css",
+    "main.js": "/All-React-Projects/tree/main/movie-cards/static/js/main.8f7892e2.js",
+    "static/js/787.3d36121d.chunk.js": "/All-React-Projects/tree/main/movie-cards/static/js/787.3d36121d.chunk.js",
+    "index.html": "/All-React-Projects/tree/main/movie-cards/index.html",
+    "main.9de83585.css.map": "/All-React-Projects/tree/main/movie-cards/static/css/main.9de83585.css.map",
+    "main.8f7892e2.js.map": "/All-React-Projects/tree/main/movie-cards/static/js/main.8f7892e2.js.map",
+    "787.3d36121d.chunk.js.map": "/All-React-Projects/tree/main/movie-cards/static/js/787.3d36121d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9de83585.css",
+    "static/js/main.8f7892e2.js"
+  ]
+}
